@@ -96,16 +96,6 @@
         <target xml:lang="nb" state="translated">Seksjonsdetaljer</target>
         <note>key: tab.details.section_details</note>
       </trans-unit>
-      <trans-unit id="67ff5cca435b058142e77b820d5d72090fa26346" resname="tab.details.section_id">
-        <source>Section ID</source>
-        <target xml:lang="nb" state="translated">Seksjons-ID</target>
-        <note>key: tab.details.section_id</note>
-      </trans-unit>
-      <trans-unit id="0ab2029f0a194849d3f90531f03e37780491d1a6" resname="tab.details.section_identifier">
-        <source>Section identifier</source>
-        <target xml:lang="nb" state="translated">Seksjonsidentifikator</target>
-        <note>key: tab.details.section_identifier</note>
-      </trans-unit>
       <trans-unit id="30775f4a9e0512f181cf857fb0f0ea23fe79320d" resname="tab.details.section_name">
         <source>Section name</source>
         <target xml:lang="nb" state="translated">Seksjonsnavn</target>
@@ -116,33 +106,13 @@
         <target xml:lang="nb" state="translated">Status detaljer</target>
         <note>key: tab.details.state_details</note>
       </trans-unit>
-      <trans-unit id="bbbd7d6b2d1c59cedd3012f3d4375ade8cc50c15" resname="tab.details.state_group_id">
-        <source>Group ID</source>
-        <target xml:lang="nb" state="translated">Gruppe-ID</target>
-        <note>key: tab.details.state_group_id</note>
-      </trans-unit>
-      <trans-unit id="b4e137dd1267dc4e70e23e289313c9340f065634" resname="tab.details.state_group_identifier">
-        <source>Group identifier</source>
-        <target xml:lang="nb" state="translated">Gruppeidentifikator</target>
-        <note>key: tab.details.state_group_identifier</note>
-      </trans-unit>
       <trans-unit id="131730e5ecef276336a53300cdd891e0689023f4" resname="tab.details.state_group_name">
         <source>Group name</source>
         <target xml:lang="nb" state="translated">Gruppenavn</target>
         <note>key: tab.details.state_group_name</note>
       </trans-unit>
-      <trans-unit id="0ae393a967d866426ebdb62c810ea218c011ea5f" resname="tab.details.state_id">
-        <source>State ID</source>
-        <target xml:lang="nb" state="translated">Status ID</target>
-        <note>key: tab.details.state_id</note>
-      </trans-unit>
-      <trans-unit id="e185e68f61ce9867e2cafcf406650e12c3a81d05" resname="tab.details.state_identifier">
-        <source>Identifier</source>
-        <target xml:lang="nb" state="translated">Identifikator</target>
-        <note>key: tab.details.state_identifier</note>
-      </trans-unit>
       <trans-unit id="69dea878e2926e6a40b3d4e79b1f723d0aa801c7" resname="tab.details.state_name">
-        <source>Name</source>
+        <source>Current object state</source>
         <target xml:lang="nb" state="translated">Navn</target>
         <note>key: tab.details.state_name</note>
       </trans-unit>
@@ -155,11 +125,6 @@
         <source>Order by</source>
         <target xml:lang="nb" state="translated">Sorter etter</target>
         <note>key: tab.details.sub_items_listing_by.order_by</note>
-      </trans-unit>
-      <trans-unit id="fe4321b1de5be805ed8224c8cf442a89e9fa38b4" resname="tab.details.sub_items_listing_by_set">
-        <source>Set</source>
-        <target xml:lang="nb" state="translated">Sett</target>
-        <note>key: tab.details.sub_items_listing_by_set</note>
       </trans-unit>
       <trans-unit id="03aa9832291905ed83ba60081ebffe5786d92418" resname="tab.details.sub_items_sorting_order">
         <source>Sub-items sorting order</source>
@@ -191,11 +156,6 @@
         <target xml:lang="nb" state="translated">Innholdsplasseringer</target>
         <note>key: tab.locations.content_locations</note>
       </trans-unit>
-      <trans-unit id="2f3aa22262d10e0dcbc4ccfacbf060f9e98fcb05" resname="tab.locations.hidden">
-        <source>Hidden</source>
-        <target xml:lang="nb" state="translated">Skjult</target>
-        <note>key: tab.locations.hidden</note>
-      </trans-unit>
       <trans-unit id="cd57f6ee339fa6c35e2a75cc760f391676fca490" resname="tab.locations.hidden_by_superior">
         <source>Hidden by superior</source>
         <target xml:lang="nb" state="translated">Skjult av overordnet element</target>
@@ -225,11 +185,6 @@
         <source>Visibility</source>
         <target xml:lang="nb" state="translated">Synlighet</target>
         <note>key: tab.locations.visibility</note>
-      </trans-unit>
-      <trans-unit id="775b3ea314e2c1d999a586f85fab657c30deaac3" resname="tab.locations.visible">
-        <source>Visible</source>
-        <target xml:lang="nb" state="translated">Synlig</target>
-        <note>key: tab.locations.visible</note>
       </trans-unit>
       <trans-unit id="5d92b84a6c78bd443010f172c47d01ce0dacacd7" resname="tab.name.details">
         <source>Details</source>
