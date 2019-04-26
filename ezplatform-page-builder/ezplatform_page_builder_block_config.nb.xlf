@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="f7f914561d720817076c4caa6497d8a61f765fa8" resname="block.collection.select.content">
         <source>Select Content</source>
-        <target xml:lang="nb" state="translated">Velg innhold</target>
+        <target state="translated">Velg innhold</target>
         <note>key: block.collection.select.content</note>
       </trans-unit>
       <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content">
         <source>Select content</source>
-        <target xml:lang="nb" state="translated">Velg innhold</target>
+        <target state="translated">Velg innhold</target>
         <note>key: select.content</note>
       </trans-unit>
     </body>

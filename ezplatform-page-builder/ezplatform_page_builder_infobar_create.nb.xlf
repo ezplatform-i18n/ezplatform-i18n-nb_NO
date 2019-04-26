@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="b8a74ee93a78609c69343a3667b60bac64dc1d04" resname="infobar.mode.preview_language">
         <source>Language</source>
-        <target xml:lang="nb" state="translated">Språk</target>
+        <target state="translated">Språk</target>
         <note>key: infobar.mode.preview_language</note>
       </trans-unit>
     </body>

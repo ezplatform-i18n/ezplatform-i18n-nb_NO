@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published">
         <source>content.published</source>
-        <target xml:lang="nb" state="translated">Innhold publisert</target>
+        <target state="translated">Innhold publisert</target>
         <note>key: content.published</note>
       </trans-unit>
     </body>

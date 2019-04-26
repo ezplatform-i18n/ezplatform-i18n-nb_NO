@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="50833698162171103793dc9cb6367839a8e063a4" resname="preview_unavailable">
         <source>You cannot preview this translation: there is no site available for this language. Please contact the website administrator.</source>
-        <target xml:lang="nb" state="translated">Du kan ikke forhåndsvise denne oversettelsen: det finnes ingen webside satt opp for dette språket. Vennligst kontakt web administrator.</target>
+        <target state="translated">Du kan ikke forhåndsvise denne oversettelsen: det finnes ingen webside satt opp for dette språket. Vennligst kontakt web administrator.</target>
         <note>key: preview_unavailable</note>
       </trans-unit>
     </body>

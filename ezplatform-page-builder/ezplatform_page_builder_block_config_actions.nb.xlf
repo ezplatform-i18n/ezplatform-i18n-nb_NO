@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="f57e38069445fdec820e61935325ba944c1c8fe4" resname="discard">
         <source>Discard</source>
-        <target xml:lang="nb" state="translated">Forkast</target>
+        <target state="translated">Forkast</target>
         <note>key: discard</note>
       </trans-unit>
     </body>
