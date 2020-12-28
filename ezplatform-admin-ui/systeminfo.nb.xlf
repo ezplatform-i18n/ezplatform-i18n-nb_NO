@@ -10,9 +10,6 @@
         <source>Bundles</source>
         <target state="translated">Bundles</target>
         <note>key: bundles</note>
-        <alt-trans>
-          <target>Bunter</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="874ad8df43111be5efde68a54160acf7badff6c9" resname="composer">
         <source>Composer</source>

@@ -20,9 +20,6 @@
         <source>Language '%name%' created.</source>
         <target state="translated">Språk '%name%' opprettet.</target>
         <note>key: language.create.success</note>
-        <alt-trans>
-          <target>Språk '%name%' skapt.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7c8fcdc1c11d3c1cf2a4380f440ef3d157b68c12" resname="language.delete.success">
         <source>Language '%name%' removed.</source>

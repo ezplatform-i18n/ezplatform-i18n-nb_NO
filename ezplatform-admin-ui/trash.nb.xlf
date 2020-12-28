@@ -41,11 +41,6 @@
         <target state="translated">Papirkurv</target>
         <note>key: trash.table.header</note>
       </trans-unit>
-      <trans-unit id="04098b87c58e41ab39820db75eee1d13856f9616" resname="trash.type">
-        <source>Type</source>
-        <target state="translated">Type</target>
-        <note>key: trash.type</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>

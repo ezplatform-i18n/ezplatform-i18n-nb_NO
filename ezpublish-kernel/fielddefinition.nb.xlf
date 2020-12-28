@@ -35,21 +35,12 @@
         <target state="translated">Merket</target>
         <note>key: fielddefinition.default-value.checked</note>
         <jms:reference-file line="69">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Avkrysset</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Sjekket</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3410f38fd1f44cb841ec374c13daca04dcc5910b" resname="fielddefinition.default-value.current_date">
         <source>Current date</source>
         <target state="translated">Gjeldende dato</target>
         <note>key: fielddefinition.default-value.current_date</note>
         <jms:reference-file line="107">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Dagens dato</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d3cda4b47dfae160f1e7f982570b8b544a494701" resname="fielddefinition.default-value.current_datetime">
         <source>Current datetime</source>
@@ -89,18 +80,12 @@
         <target state="translated">Ikke avkrysset</target>
         <note>key: fielddefinition.default-value.unchecked</note>
         <jms:reference-file line="71">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Umerket</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="908870d411d8599211d188e35d0240bfecb98b5e" resname="fielddefinition.default-value.undefined">
         <source>No default value</source>
         <target state="translated">Ingen standardverdi</target>
         <note>key: fielddefinition.default-value.undefined</note>
         <jms:reference-file line="352">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Standardverdi</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="34ced944f5d7159b0597b98279e73be045c0ccd9" resname="fielddefinition.interval.day">
         <source>%default% %day% day(s)</source>
@@ -149,9 +134,6 @@
         <target state="translated">Maksimal tekstlengde:</target>
         <note>key: fielddefinition.max-length.label</note>
         <jms:reference-file line="28">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Maks tekstlengde:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c8c3fa9b71c848069950539011a09b45abb1c11f" resname="fielddefinition.max-length.undefined">
         <source>No defined maximum string length</source>
@@ -327,9 +309,6 @@
         <target state="translated">Liste med avkryssingsbokser</target>
         <note>key: fielddefinition.selection-method.checkbox</note>
         <jms:reference-file line="240">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Liste med avmerkingsbokser</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a60c81e556aa14c00b3b44ffb6e49f90b882c286" resname="fielddefinition.selection-method.label">
         <source>Selection method:</source>
@@ -362,9 +341,6 @@
         <target state="translated">Liste med radioknapper</target>
         <note>key: fielddefinition.selection-method.radio</note>
         <jms:reference-file line="238">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Liste med alternativknapper</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="37121f3c9e8054432510a9f85fd3235e5f549734" resname="fielddefinition.selection-method.single_template">
         <source>Template based, single</source>

@@ -155,9 +155,6 @@
         <source>Content Type / All functions</source>
         <target state="translated">Innholdstype / Alle funksjoner</target>
         <note>key: role.policy.class.all_functions</note>
-        <alt-trans>
-          <target>Innholdstype / alle funksjoner</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="02049080d0f8dea3f723bbd1a280900b0657914e" resname="role.policy.class.create">
         <source>Content Type / Create</source>
@@ -193,9 +190,6 @@
         <source>Content / Create</source>
         <target state="translated">Innhold / Opprett</target>
         <note>key: role.policy.content.create</note>
-        <alt-trans>
-          <target>Innholdstype / Opprett</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="019bae55ae37c03117c05eb25cc208e9b2396827" resname="role.policy.content.diff">
         <source>Content / Diff</source>
@@ -251,17 +245,11 @@
         <source>Content / Versionread</source>
         <target state="translated">Innhold / Lese versjon</target>
         <note>key: role.policy.content.versionread</note>
-        <alt-trans>
-          <target>Innhold / Versjonlesning</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4e615fcc14a6f5b70fb3e7957518c27bc508d92f" resname="role.policy.content.versionremove">
         <source>Content / Versionremove</source>
         <target state="translated">Innhold / Fjerne versjon</target>
         <note>key: role.policy.content.versionremove</note>
-        <alt-trans>
-          <target>Innhold / Versjonfjerning</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6ff0bcc1b70d0dbde113af7649393f667612cace" resname="role.policy.role">
         <source>Role</source>
@@ -282,9 +270,6 @@
         <source>Role / Create</source>
         <target state="translated">Rolle / Opprette</target>
         <note>key: role.policy.role.create</note>
-        <alt-trans>
-          <target>Rolle / Opprett</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d17c0339a48c6e273c56673c31037427fd95ecee" resname="role.policy.role.delete">
         <source>Role / Delete</source>

@@ -20,9 +20,6 @@
         <source>Previewing</source>
         <target state="translated">Forhåndsvisning</target>
         <note>key: previewing</note>
-        <alt-trans>
-          <target>Forhåndsviser</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>

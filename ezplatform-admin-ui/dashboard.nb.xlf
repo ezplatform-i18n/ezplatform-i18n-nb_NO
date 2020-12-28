@@ -20,9 +20,6 @@
         <source>Edit Media</source>
         <target state="translated">Redigere media</target>
         <note>key: dashboard.table.all.media.edit</note>
-        <alt-trans>
-          <target>Redigere Media</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f0adf5df30310686ce6864bef32325c9a6988b49" resname="dashboard.table.content.edit">
         <source>Edit Content</source>

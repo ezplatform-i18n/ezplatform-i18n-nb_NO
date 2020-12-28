@@ -127,9 +127,6 @@
         <target state="translated">Felttypen '%fieldType%' ble ikke funnet, den må implementeres eller konfigureres til å bruke FieldType\Null\Type (%ezpublish.fieldType.eznull.class%)</target>
         <note>key: FieldType '%fieldType%' not found, needs to be implemented or configured to use FieldType\Null\Type (%ezpublish.fieldType.eznull.class%)</note>
         <jms:reference-file line="32">eZ/Publish/Core/Base/Exceptions/NotFound/FieldTypeNotFoundException.php</jms:reference-file>
-        <alt-trans>
-          <target>Felttypen '%fieldType%' ble ikke funnet, må implementeres eller konfigureres til å bruke FieldType\Null\Type (%ezpublish.fieldType.eznull.class%)</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="25f2ccabd8883a36aee5754ce43741c211cf378a" resname="FieldType '%identifier%' is singular and can't be repeated in a ContentType">
         <source>FieldType '%identifier%' is singular and can't be repeated in a ContentType</source>

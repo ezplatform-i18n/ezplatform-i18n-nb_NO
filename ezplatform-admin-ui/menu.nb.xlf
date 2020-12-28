@@ -186,11 +186,6 @@
         <target state="translated">Innholdsstruktur</target>
         <note>key: main__content__content_structure</note>
       </trans-unit>
-      <trans-unit id="2887dd09dcb0f287e947da3e735133c540991df1" resname="main__content__linkmanager">
-        <source>Link Manager</source>
-        <target state="translated">Lenke oversikt</target>
-        <note>key: main__content__linkmanager</note>
-      </trans-unit>
       <trans-unit id="e8c5aefc86b31ee2bed9359787ddf0a2b1cad4a6" resname="main__content__media">
         <source>Media</source>
         <target state="translated">Media</target>
