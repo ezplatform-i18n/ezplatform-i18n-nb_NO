@@ -16,26 +16,6 @@
         <target state="translated">Innhold publisert.</target>
         <note>key: content.published.success</note>
       </trans-unit>
-      <trans-unit id="6a2083913f3647b44f205204e369f764e83233b1" resname="content_id">
-        <source>Content ID: %contentId%</source>
-        <target state="translated">Innholds ID: %contentId%</target>
-        <note>key: content_id</note>
-      </trans-unit>
-      <trans-unit id="71a8aeb31196db647608ffe1789be9400d61451d" resname="created_by">
-        <source>Created by %name%</source>
-        <target state="translated">Opprettet av %name%</target>
-        <note>key: created_by</note>
-      </trans-unit>
-      <trans-unit id="876d7bdba03c72251ec4c2dc827fc54af7889091" resname="location_id">
-        <source>Location ID: %locationId%</source>
-        <target state="translated">Lokasjons ID: %locationId%</target>
-        <note>key: location_id</note>
-      </trans-unit>
-      <trans-unit id="cce4ced380a283ffdecf364aeb5312ee001e6601" resname="parent_location_id">
-        <source>Parent Location ID: %locationId%</source>
-        <target state="translated">Overordnet plasserings ID: %locationId%</target>
-        <note>key: parent_location_id</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>

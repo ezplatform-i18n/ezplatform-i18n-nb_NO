@@ -16,11 +16,6 @@
         <target state="translated">Avspillerinnstillinger</target>
         <note>key: content.field_type.ezmedia.player_settings</note>
       </trans-unit>
-      <trans-unit id="b244ed2b3b30d53cd73ea9d25c21c7d938e97973" resname="ezbinaryfile.action.preview">
-        <source>Preview</source>
-        <target state="translated">Forhåndsvis</target>
-        <note>key: ezbinaryfile.action.preview</note>
-      </trans-unit>
       <trans-unit id="936018db97b7f60296d65482bc41f138e787b5c9" resname="ezbinaryfile.action.remove">
         <source>Remove</source>
         <target state="translated">Fjern</target>
