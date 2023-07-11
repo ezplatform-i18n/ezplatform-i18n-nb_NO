@@ -6,15 +6,15 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="bb7c5bc498a649c6ec116abc12e7b8be1d4f7b92" resname="alert.close">
+        <source>Close</source>
+        <target state="translated">Lukk</target>
+        <note>key: alert.close</note>
+      </trans-unit>
       <trans-unit id="d2293b387ecddbc6173fd579abd37873fcbc5e97" resname="authentication.forgot_password">
-        <source>Forgot your password?</source>
+        <source>Forgot password?</source>
         <target state="translated">Glemt passord?</target>
         <note>key: authentication.forgot_password</note>
-      </trans-unit>
-      <trans-unit id="a56a6630cc335b8a63f8632263aef6625f731929" resname="authentication.login">
-        <source>Login</source>
-        <target state="translated">Logg inn</target>
-        <note>key: authentication.login</note>
       </trans-unit>
       <trans-unit id="da44d8915172b0c8a874e26956f44aa5501c7e6b" resname="authentication.password">
         <source>Password</source>
@@ -36,6 +36,11 @@
         <target state="translated">Admin</target>
         <note>key: breadcrumb.admin</note>
       </trans-unit>
+      <trans-unit id="74954052fb86d856c77ee642195c0c0b23bf9e70" resname="breadcrumb.user_preferences">
+        <source>User Preferences</source>
+        <target state="translated">Brukerinnstillinger</target>
+        <note>key: breadcrumb.user_preferences</note>
+      </trans-unit>
       <trans-unit id="fb19ae886e63bac3aa3b851ac00aae8a3b777992" resname="content.in_trash">
         <source>In Trash</source>
         <target state="translated">I papirkurven</target>
@@ -52,12 +57,12 @@
         <note>key: custom_url_alias_add_form.remove</note>
       </trans-unit>
       <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
-        <source>Add</source>
+        <source>Add author</source>
         <target state="translated">Legg til forfatter</target>
         <note>key: ezauthor.action.add</note>
       </trans-unit>
       <trans-unit id="3a0389d073f00ef9a968a5cdc60e2794b434b381" resname="ezauthor.action.delete">
-        <source>Delete</source>
+        <source>Remove author</source>
         <target state="translated">Fjern forfatter</target>
         <note>key: ezauthor.action.delete</note>
       </trans-unit>
@@ -96,6 +101,11 @@
         <target state="translated">Slett</target>
         <note>key: modal.delete</note>
       </trans-unit>
+      <trans-unit id="08232f4c5c3ca88a7f2fd8e29eda7e20ec346aae" resname="search.any_time">
+        <source>Any time</source>
+        <target state="translated">Valgfritt tidspunkt</target>
+        <note>key: search.any_time</note>
+      </trans-unit>
       <trans-unit id="9567771350aff93580f743089937b0c8fe31058e" resname="section.assign,content">
         <source>Assign Content</source>
         <target state="translated">Tilordne til innhold</target>
@@ -125,6 +135,11 @@
         <source>Close</source>
         <target state="translated">Lukk</target>
         <note>key: trash.modal.close</note>
+      </trans-unit>
+      <trans-unit id="9a88e9a17cd461dcd7d54dca50c6d3b981aba7fc" resname="trash.search.any_time">
+        <source>Any time</source>
+        <target state="translated">Valgfritt tidspunkt</target>
+        <note>key: trash.search.any_time</note>
       </trans-unit>
     </body>
   </file>

@@ -41,21 +41,6 @@
         <target state="translated">Maksimum filstørrelse:</target>
         <note>key: max_file_size.message</note>
       </trans-unit>
-      <trans-unit id="412c9936722fbbcd34664fdbfe33880fad7ef998" resname="multi_file_upload_open_btn.label">
-        <source>Upload</source>
-        <target state="translated">Laste opp underelementer</target>
-        <note>key: multi_file_upload_open_btn.label</note>
-      </trans-unit>
-      <trans-unit id="76d7ffabd7e8c5d27a9b732dd5f15d1da68ff00c" resname="upload.success.message">
-        <source>100% Uploaded</source>
-        <target state="translated">Opplastet</target>
-        <note>key: upload.success.message</note>
-      </trans-unit>
-      <trans-unit id="13ad49603f42b4ec5f9328d94f90e4f6d7ba6203" resname="upload_btn.label">
-        <source>Upload file</source>
-        <target state="translated">Laste opp underelementer</target>
-        <note>key: upload_btn.label</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -21,6 +21,11 @@
         <target state="translated">Beskrivelse</target>
         <note>key: notification.description</note>
       </trans-unit>
+      <trans-unit id="1c91fe849525c315015b2e765f6600fd199e78a0" resname="notification.title">
+        <source>Title:</source>
+        <target state="translated">Tittel:</target>
+        <note>key: notification.title</note>
+      </trans-unit>
       <trans-unit id="38a0272fc22c3faac611a3124a25589424ae2b11" resname="notification.type">
         <source>Type</source>
         <target state="translated">Type</target>

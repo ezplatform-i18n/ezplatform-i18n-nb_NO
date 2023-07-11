@@ -16,6 +16,11 @@
         <target state="translated">Gjenopprett</target>
         <note>key: trash.button.restore</note>
       </trans-unit>
+      <trans-unit id="7ffaa1444a83e959f8de3c2410bb65acdd3e3ff0" resname="trash.delete">
+        <source>Delete</source>
+        <target state="translated">Slett</target>
+        <note>key: trash.delete</note>
+      </trans-unit>
       <trans-unit id="eb7cd78bb919141f66cabfea95a60e0e6b02e9f4" resname="trash.headline">
         <source>Trash</source>
         <target state="translated">Papirkurv</target>

@@ -21,6 +21,16 @@
         <target state="translated">Legger til nytt vilkår</target>
         <note>key: policy.view.add.title</note>
       </trans-unit>
+      <trans-unit id="84d0c2844a996fbfdc23872405533f92b6e6e2f6" resname="policy.view.list.action.add">
+        <source>Add a new Policy</source>
+        <target state="translated">Legg til nye vilkår</target>
+        <note>key: policy.view.list.action.add</note>
+      </trans-unit>
+      <trans-unit id="abf42b328e259dc5ec851e70dad234636d0134fe" resname="policy.view.list.action.delete">
+        <source>Delete Policy</source>
+        <target state="translated">Slett vilkår</target>
+        <note>key: policy.view.list.action.delete</note>
+      </trans-unit>
       <trans-unit id="35aa96a30453aa7b604432885032fd961a7f508a" resname="policy.view.list.panel.policies.action.edit">
         <source>Edit</source>
         <target state="translated">Rediger</target>
@@ -56,6 +66,11 @@
         <target state="translated">Roller</target>
         <note>key: role.breadcrumb.list</note>
       </trans-unit>
+      <trans-unit id="9756b39574125051ae4fcd1916f5ba8b065eceb9" resname="role.breadcrumb.view">
+        <source>%identifier%</source>
+        <target state="translated">%identifier%</target>
+        <note>key: role.breadcrumb.view</note>
+      </trans-unit>
       <trans-unit id="45788029a46cf9c1bc9a3d38077e86a99a650576" resname="role.breadcrumb.view.identifier">
         <source>Role "%identifier%"</source>
         <target state="translated">Rollen "%identifier%"</target>
@@ -77,7 +92,7 @@
         <note>key: role.update.success</note>
       </trans-unit>
       <trans-unit id="88d7426f344cc9d85b90903dad013d5806b82faa" resname="role.view.list.action.add">
-        <source>Create</source>
+        <source>Create a Role</source>
         <target state="translated">Opprett en rolle</target>
         <note>key: role.view.list.action.add</note>
       </trans-unit>
@@ -85,6 +100,11 @@
         <source>Assign to Users/Groups</source>
         <target state="translated">Tilordne til brukere/grupper</target>
         <note>key: role.view.list.action.assign_to_users_or_groups</note>
+      </trans-unit>
+      <trans-unit id="e0b49df6c6b235f7eb4d03019d1f9505dd77a135" resname="role.view.list.action.delete">
+        <source>Delete Role</source>
+        <target state="translated">Slett rolle</target>
+        <note>key: role.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="cb9d9934c021aa5f2b25bfa652279daa88c6086f" resname="role.view.list.action.edit">
         <source>Edit</source>

@@ -11,16 +11,6 @@
         <target state="translated">Avspillerinnstillinger</target>
         <note>key: content.field_type.ezmedia.player_settings</note>
       </trans-unit>
-      <trans-unit id="936018db97b7f60296d65482bc41f138e787b5c9" resname="ezbinaryfile.action.remove">
-        <source>Delete</source>
-        <target state="translated">Fjern</target>
-        <note>key: ezbinaryfile.action.remove</note>
-      </trans-unit>
-      <trans-unit id="df33d5cc8c00514b2c50d4949b872cc3cd99284c" resname="ezobjectrelationlist.cta.select">
-        <source>Select Item</source>
-        <target state="translated">Velg innhold</target>
-        <note>key: ezobjectrelationlist.cta.select</note>
-      </trans-unit>
       <trans-unit id="97e94752cba8892136d56b07057f0cac9344cb56" resname="ezobjectrelationlist.table.row.content_type">
         <source>Content Type</source>
         <target state="translated">Innholdstype</target>

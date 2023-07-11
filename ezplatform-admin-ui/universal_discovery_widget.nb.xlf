@@ -16,11 +16,6 @@
         <target state="translated">Velg bildeobjekt</target>
         <note>key: ezimageasset.title</note>
       </trans-unit>
-      <trans-unit id="92d63a744c29f4be477f21fc81dd19b74ebb7bf2" resname="filters.tag_view_select.select">
-        <source>Select content</source>
-        <target state="translated">Velg innhold</target>
-        <note>key: filters.tag_view_select.select</note>
-      </trans-unit>
       <trans-unit id="56faf4ff9f2deaae1d34c1abcecae0413dc24a78" resname="move.title">
         <source>Select destination</source>
         <target state="translated">Velg destinasjon</target>
